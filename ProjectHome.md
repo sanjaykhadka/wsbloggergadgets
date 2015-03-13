@@ -1,0 +1,1 @@
+This displays the related post just below the posts for blogger.
